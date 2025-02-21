@@ -3,9 +3,10 @@ Still on Dover Insurance, I was also tasked with leveraging survey data and regr
 
 By examining employee responses on a 0-100 scale, I identified patterns that could inform HR strategies for improving workplace wellness. 
 
-*I have videos showing my processes in real-time in **[this article](),** incase you would prefer that.*
+*I have videos showing my processes in real-time in **[this article](https://www.linkedin.com/posts/hellotimilehin_dataanalysis-statistics-regressionanalysis-activity-7298716824450273281-ziog?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpW6sUB6cuSakfypW-v0t9fKlLp33vn2XU),** incase you would prefer that.*
 
 ## Task Overview
+## ***[Dataset](https://docs.google.com/spreadsheets/d/1XLRiFjuKHIYecAcTQkWXvWPA6KgkywOO/edit?usp=sharing&ouid=107860954201781863308&rtpof=true&sd=true)***
 - Identify key factors influencing overall employee wellbeing through correlation analysis 
 - Run a regression model to pinpoint the most significant drivers of employee wellbeing 
 - Evaluate limitations of the model and identify additional data sources for deeper insights
@@ -66,4 +67,17 @@ The analysis above informs that priorities should include;
 - Reducing workplace stress
 - Improving employee-manager relationships by encouraging managers to be supportive
 - Addressing negative emotions at work through mental health support, workplace culture, and conflict resolution.
+
+---
+## Evaluating the Limitations<br>
+**Limitations of the Regression Analysis:**
+- The analysis only shows relationships, not direct causes.
+- External factors like salary levels were not included in the survey question 
+- Responses may have been influenced by fleeting or in-the-moment feelings.<br>
+
+**Additional Data Sources for deeper insights:**
+- Turnover data 
+- Data about salary/incentive
+- Record complaints from staff or HR 
+
 
